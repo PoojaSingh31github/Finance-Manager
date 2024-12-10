@@ -36,7 +36,7 @@ The **Personal Finance Management App** is a user-friendly platform designed to 
 ---
 
 ## ScreenShots
-- Home page
+-Home page
 ![image](https://github.com/user-attachments/assets/981405c4-6458-4fb8-a638-58e031a4cfda)
 
 -login Page
@@ -48,7 +48,7 @@ The **Personal Finance Management App** is a user-friendly platform designed to 
 -Income
 ![image](https://github.com/user-attachments/assets/f146cc78-708f-4374-9cf9-052ef9abac0a)
 
-Transactions
+-Transactions
 ![image](https://github.com/user-attachments/assets/6d14501b-8e92-432d-bf89-401c5d20c048)
 
 -Saving
